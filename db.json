@@ -1,0 +1,13 @@
+{
+  "cartas": [
+    { "id": 1, "nombre": "As de Corazones", "palo": "Corazones", "valor": 1, "imagen": "corazones_1" },
+    { "id": 2, "nombre": "2 de Corazones", "palo": "Corazones", "valor": 2, "imagen": "corazones_2" },
+    { "id": 3, "nombre": "As de Picas", "palo": "Picas", "valor": 1, "imagen": "picas_1" },
+    { "id": 4, "nombre": "Rey de Diamantes", "palo": "Diamantes", "valor": 13, "imagen": "diamantes_13" },
+    { "id": 5, "nombre": "Reina de Treboles", "palo": "Treboles", "valor": 12, "imagen": "treboles_12" }
+  ],
+  "usuarios": [
+    { "id": 1, "nombre": "Jugador Uno", "cartasIds": [1, 2, 3] },
+    { "id": 2, "nombre": "Jugador Dos", "cartasIds": [4, 5] }
+  ]
+}
